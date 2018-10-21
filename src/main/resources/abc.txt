@@ -1,0 +1,4 @@
+com.cwoongc.name=최웅철
+com.cwoongc.age=39
+com.cwoongc.gender=male
+com.cwoongc.job=engineer
